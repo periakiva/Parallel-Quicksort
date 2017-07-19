@@ -2,7 +2,7 @@
 #include<pthread.h>
 #include<stdlib.h>
 using namespace std;
-//thread function tpo generate a sum of 0 to N
+////thread function tpo generate a sum of 0 to N
 struct sum_runner_struct{
    long long limit;
    long long answer;
